@@ -47,7 +47,7 @@ Ce projet est une API RESTful construite avec NestJS pour gérer les utilisateur
    docker-compose up --build
    ```
 
-2. L'API sera accessible à l'adresse : `http://localhost:3000`
+2. L'API sera accessible à l'adresse : `http://localhost:3001`
 
 ### Sans Docker
 
